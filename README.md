@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project applies a Vanilla Long Short-Term Memory (LSTM) deep learning model to forecast seasonal groundwater levels (pre-monsoon and post-monsoon) across three districts in Kerala, India:
+This project applies a deep learning-based Vanilla  Long Short-Term Memory (LSTM) architecture to forecast seasonal groundwater levels (pre-monsoon and post-monsoon) across three districts in Kerala, India:
 
 - Kollam  
 - Pathanamthitta  
